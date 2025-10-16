@@ -86,7 +86,7 @@ python main.py
 ```
 
 ## Project Structure
-
+```bash
 RAG_end_to_end_pipeline/
 ├─ data/                     # 📂 Raw documents for indexing
 ├─ faiss_store/              # 💾 Persistent FAISS index and metadata
@@ -98,3 +98,4 @@ RAG_end_to_end_pipeline/
 ├─ main.py                   # 🚀 Unified entry point for demonstration
 ├─ requirements.txt
 └─ README.md
+```
